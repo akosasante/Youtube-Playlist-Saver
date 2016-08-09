@@ -1,0 +1,2715 @@
+{
+  u'items': [
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'thumbnails': {
+          u'default': {
+            u'url': u'https://i.ytimg.com/vi/BvX-eYO1UKM/default.jpg',
+            u'width': 120,
+            u'height': 90
+          },
+          u'high': {
+            u'url': u'https://i.ytimg.com/vi/BvX-eYO1UKM/hqdefault.jpg',
+            u'width': 480,
+            u'height': 360
+          },
+          u'medium': {
+            u'url': u'https://i.ytimg.com/vi/BvX-eYO1UKM/mqdefault.jpg',
+            u'width': 320,
+            u'height': 180
+          },
+          u'maxres': {
+            u'url': u'https://i.ytimg.com/vi/BvX-eYO1UKM/maxresdefault.jpg',
+            u'width': 1280,
+            u'height': 720
+          },
+          u'standard': {
+            u'url': u'https://i.ytimg.com/vi/BvX-eYO1UKM/sddefault.jpg',
+            u'width': 640,
+            u'height': 480
+          }
+        },
+        u'title': u'DFD - ARE WE THERE YET',
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'BvX-eYO1UKM'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 0,
+        u'description': u'Check out my new album "Take the Stares" OUT NOW!\n\nGet the CD at http://www.takethestares.com\n\nGet it on iTunes at\nhttps://itunes.apple.com/us/album/take-the-stares/id565000412\n\n"Are We There Yet" \n\nTrack Produced by: LoDef  | @LODEFBEATS\nhttp://www.platinum-standard.com\n\nDirected By: @J6AHN | Jay Ahn\nhttp://j6ahn.com\n\nFor the latest information and news \n\nFollow @dumbfoundead\nhttp://facebook.com/dumbfoundead\n\nhttp://www.knocksteady.com\nhttp://dumbfoundead.com\n\nDumbfoundead, dfd, los angeles, project blowed, KnocksteadyTV'
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/B_s2nTMm9aPadnJyKOChf3ZLU28"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi41NkI0NEY2RDEwNTU3Q0M2'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'description': u'This video is private.',
+        u'title': u'Private video',
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'ULyRjPMpj9o'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 1
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/O7KvpyhMALKJRgrr5haujaJjYF0"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi4yODlGNEE0NkRGMEEzMEQy'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'thumbnails': {
+          u'default': {
+            u'url': u'https://i.ytimg.com/vi/j7_lSP8Vc3o/default.jpg',
+            u'width': 120,
+            u'height': 90
+          },
+          u'high': {
+            u'url': u'https://i.ytimg.com/vi/j7_lSP8Vc3o/hqdefault.jpg',
+            u'width': 480,
+            u'height': 360
+          },
+          u'medium': {
+            u'url': u'https://i.ytimg.com/vi/j7_lSP8Vc3o/mqdefault.jpg',
+            u'width': 320,
+            u'height': 180
+          },
+          u'maxres': {
+            u'url': u'https://i.ytimg.com/vi/j7_lSP8Vc3o/maxresdefault.jpg',
+            u'width': 1280,
+            u'height': 720
+          },
+          u'standard': {
+            u'url': u'https://i.ytimg.com/vi/j7_lSP8Vc3o/sddefault.jpg',
+            u'width': 640,
+            u'height': 480
+          }
+        },
+        u'title': u'2NE1 - \ub0b4\uac00 \uc81c\uc77c \uc798 \ub098\uac00(I AM THE BEST) M/V',
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'j7_lSP8Vc3o'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 2,
+        u'description': u'DIGITAL SINGLE [I AM THE BEST]\n\nAvailable on iTunes @ https://itunes.apple.com/us/album/i-am-the-best/id950442421?i=950442426\n\n#2NE1 #IAMTHEBEST #\ub0b4\uac00\uc81c\uc77c\uc798\ub098\uac00\n\nMore about 2NE1 @\nhttp://www.yg-2ne1.com/\nhttp://www.facebook.com/2ne1\nhttp://www.youtube.com/2ne1\nhttp://iTunes.com/2NE1\nhttp://weibo.com/2ne1asia\nhttp://twitter.com/ygent_official'
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/gERDqogCDDFlGg00ZPn2avCVdUw"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi4wMTcyMDhGQUE4NTIzM0Y5'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'thumbnails': {
+          u'default': {
+            u'url': u'https://i.ytimg.com/vi/EXRtF0bepNs/default.jpg',
+            u'width': 120,
+            u'height': 90
+          },
+          u'high': {
+            u'url': u'https://i.ytimg.com/vi/EXRtF0bepNs/hqdefault.jpg',
+            u'width': 480,
+            u'height': 360
+          },
+          u'medium': {
+            u'url': u'https://i.ytimg.com/vi/EXRtF0bepNs/mqdefault.jpg',
+            u'width': 320,
+            u'height': 180
+          },
+          u'maxres': {
+            u'url': u'https://i.ytimg.com/vi/EXRtF0bepNs/maxresdefault.jpg',
+            u'width': 1280,
+            u'height': 720
+          },
+          u'standard': {
+            u'url': u'https://i.ytimg.com/vi/EXRtF0bepNs/sddefault.jpg',
+            u'width': 640,
+            u'height': 480
+          }
+        },
+        u'title': u'Gym Class Heroes: Stereo Hearts ft. Adam Levine (LYRIC VIDEO)',
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'EXRtF0bepNs'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 3,
+        u'description': u''
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/aInNt-l14uRrxBT_muQg7Hl0vMg"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi41MjE1MkI0OTQ2QzJGNzNG'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'thumbnails': {
+          u'default': {
+            u'url': u'https://i.ytimg.com/vi/3Rd-tfJRMLI/default.jpg',
+            u'width': 120,
+            u'height': 90
+          },
+          u'high': {
+            u'url': u'https://i.ytimg.com/vi/3Rd-tfJRMLI/hqdefault.jpg',
+            u'width': 480,
+            u'height': 360
+          },
+          u'medium': {
+            u'url': u'https://i.ytimg.com/vi/3Rd-tfJRMLI/mqdefault.jpg',
+            u'width': 320,
+            u'height': 180
+          },
+          u'maxres': {
+            u'url': u'https://i.ytimg.com/vi/3Rd-tfJRMLI/maxresdefault.jpg',
+            u'width': 1280,
+            u'height': 720
+          },
+          u'standard': {
+            u'url': u'https://i.ytimg.com/vi/3Rd-tfJRMLI/sddefault.jpg',
+            u'width': 640,
+            u'height': 480
+          }
+        },
+        u'title': u'Greyson Chance - Unfriend You',
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'3Rd-tfJRMLI'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 4,
+        u'description': u'Greyson Chance performing Unfriend You. Buy Hold On Til The Night now: http://bit.ly/o08uFb (C) 2011 Geffen Records'
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/-Zo6-40pLc6b8ocdoI6uWbFXnz0"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi4wOTA3OTZBNzVEMTUzOTMy'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'thumbnails': {
+          u'default': {
+            u'url': u'https://i.ytimg.com/vi/X9-MTa_DGQc/default.jpg',
+            u'width': 120,
+            u'height': 90
+          },
+          u'high': {
+            u'url': u'https://i.ytimg.com/vi/X9-MTa_DGQc/hqdefault.jpg',
+            u'width': 480,
+            u'height': 360
+          },
+          u'medium': {
+            u'url': u'https://i.ytimg.com/vi/X9-MTa_DGQc/mqdefault.jpg',
+            u'width': 320,
+            u'height': 180
+          }
+        },
+        u'title': u'Game Meets Girl: Marvel Vs. Capcom 3 Review',
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'X9-MTa_DGQc'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 5,
+        u'description': u"Kristen get's down and reviews Marvel vs. Capcom 3, fate of two worlds.\nIs it really worth the hype? Let the honesty begin!\n\nfull review at \nhttp://gamemeetsgirl.com\n\nTwitter\nhttp://twitter.com/gamemeetsgirl"
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/DdLsPNmnG1Q87CIW5HU0G7k2iyk"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi4xMkVGQjNCMUM1N0RFNEUx'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'thumbnails': {
+          u'default': {
+            u'url': u'https://i.ytimg.com/vi/iez7D20BbyI/default.jpg',
+            u'width': 120,
+            u'height': 90
+          },
+          u'high': {
+            u'url': u'https://i.ytimg.com/vi/iez7D20BbyI/hqdefault.jpg',
+            u'width': 480,
+            u'height': 360
+          },
+          u'medium': {
+            u'url': u'https://i.ytimg.com/vi/iez7D20BbyI/mqdefault.jpg',
+            u'width': 320,
+            u'height': 180
+          }
+        },
+        u'title': u'She Geek Show - Nintendo 3DS, Wonder Woman & The Rocketeer',
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'iez7D20BbyI'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 6,
+        u'description': u"Pop Galaxy presents... The She Geek Show\r\n\r\nMeet Kate, she loves video games!\r\n\r\nShe Geek gives us her thoughts on the upcoming release of the Nintendo 3DS, Wonder Woman's costume, and the new Rocketeer novels.\r\n\r\nCheck out She Geek's blog post on PopGalaxy.com for her Nintendo 3DS buyer's guide!\r\nhttp://popgalaxy.com/blog/2011/mar/22/pop-games-should-i-buy-nintendo-3ds/\r\n\r\nFollow her on Twitter.com/SheGeekShow\r\nand Facebook.com/SheGeekShow"
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/HMtz0PVxbN0RU09T86_-GtaitXc"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi41MzJCQjBCNDIyRkJDN0VD'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'thumbnails': {
+          u'default': {
+            u'url': u'https://i.ytimg.com/vi/nJ05NfVFQYw/default.jpg',
+            u'width': 120,
+            u'height': 90
+          },
+          u'high': {
+            u'url': u'https://i.ytimg.com/vi/nJ05NfVFQYw/hqdefault.jpg',
+            u'width': 480,
+            u'height': 360
+          },
+          u'medium': {
+            u'url': u'https://i.ytimg.com/vi/nJ05NfVFQYw/mqdefault.jpg',
+            u'width': 320,
+            u'height': 180
+          },
+          u'maxres': {
+            u'url': u'https://i.ytimg.com/vi/nJ05NfVFQYw/maxresdefault.jpg',
+            u'width': 1280,
+            u'height': 720
+          },
+          u'standard': {
+            u'url': u'https://i.ytimg.com/vi/nJ05NfVFQYw/sddefault.jpg',
+            u'width': 640,
+            u'height': 480
+          }
+        },
+        u'title': u'She Geek Show: DC Universe Online - PSP2',
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'nJ05NfVFQYw'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 7,
+        u'description': u'Brand new episode!\r\n\r\nPopGalaxy.com presents the She Geek Show.\r\n\r\nMeet Kate, she loves video games.\r\n\r\nIn this pilot for PopGalaxy.com, Kate gives us her take on DC Universe Online for PC and PS3 players, and covers the PSP2 announcement!\r\n\r\nFollow Kate on http://twitter.com/SheGeekShow \r\nLike her on http://facebook.com/SheGeekShow\r\n\r\nCheck out www.PopGalaxy.com'
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/Eb0_QhF_xb28E6Zle-Rzsqx0ufQ"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi5DQUNERDQ2NkIzRUQxNTY1'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'description': u'This video is private.',
+        u'title': u'Private video',
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'RoVDDqv8wvM'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 8
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/k4vhfAKTJRhOGxgph0cfxJx4ZsU"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi5GNjNDRDREMDQxOThCMDQ2'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'thumbnails': {
+          u'default': {
+            u'url': u'https://i.ytimg.com/vi/jzYen-3VU2Q/default.jpg',
+            u'width': 120,
+            u'height': 90
+          },
+          u'high': {
+            u'url': u'https://i.ytimg.com/vi/jzYen-3VU2Q/hqdefault.jpg',
+            u'width': 480,
+            u'height': 360
+          },
+          u'medium': {
+            u'url': u'https://i.ytimg.com/vi/jzYen-3VU2Q/mqdefault.jpg',
+            u'width': 320,
+            u'height': 180
+          },
+          u'maxres': {
+            u'url': u'https://i.ytimg.com/vi/jzYen-3VU2Q/maxresdefault.jpg',
+            u'width': 1280,
+            u'height': 720
+          },
+          u'standard': {
+            u'url': u'https://i.ytimg.com/vi/jzYen-3VU2Q/sddefault.jpg',
+            u'width': 640,
+            u'height': 480
+          }
+        },
+        u'title': u'The Lazy Song-Bruno Mars (cover) Megan Nicole',
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'jzYen-3VU2Q'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 9,
+        u'description': u'My new movie, Summer Forever, is out September 4! Preorder now http://mker.tv/ynzICS\n\nCatch me on my US tour this August/September #SweetDreamsTour http://www.megannicolemusic.com/tour :) see you soon! \n\nCheck out my EP ESCAPE https://itunes.apple.com/us/album/esc...\n\nUpcoming Shows:\nJuly 11th - Beauty Con - Los Angeles\nAugust 26th - Mod Club - Toronto, Canada\nAugust 27th - Brighton Music Hall - Boston, MA\nAugust 29th - Gramercy Theater - New York, NY\nAugust 30th - Jammin Java - Washington, D.C.\nAugust 31st - World Cafe Upstairs - Philadelphia, PA\nSeptember 2nd - HOB Cambridge Room - Cleveland, OH\nSeptember 3rd - Stereo Deluxe - Indianapolis, IN\nSeptember 4th - Lincoln Hall - Chicago, IL\nSeptember 5th - Majestic Theater - Madison, WI\nSeptember 8th - Firebird - St Louis, MO\nSeptember 10th - HOB Cambridge Room - Dallas, TX\nSeptember 11th - Warehouse Live - Houston, TX\nSeptember 12th - Alamo City Music Hall - San Antonio, TX\nSeptember 13th - Stubbs Jr - Austin, TX\nSeptember 15th - Pub Tock - Phoenix, AZ\nSeptember 17th - HOB Voodoo Room - San Diego, CA\nSeptember 21st - The Roxy - Los Angeles, CA\nSeptember 23rd - The Chapel - San Francisco, CA\nSeptember 25th - Peter\'s Room - Portland, OR\nSeptember 26th - Crocodile Room - Seattle, WA\nhttp://www.megannicolemusic.com/tour\n\nPlease show your support by downloading my songs on iTunes https://itunes.apple.com/us/artist/megan-nicole/id380531205 \n\nLet\'s be friends....\nhttp://www.megannicolemusic.com\nhttp://www.twitter.com/megannicole\nhttp://www.instagram.com/megannicolemusic \nhttp://www.facebook.com/megannicolemusic\nhttp://www.megannicolemusic.com\nVine: @megannicole\n\nThanks soo much to Madison, Ginger, Sydni, Rebekah, and Deb for being apart of this video!\n\nLots of requests for this cover! Such a fun song and love Bruno Mars so I had to cover it\n:)\nattempted dancing in this song...hey...i did my best haha\n\n\'The Lazy Song\' as originally performed by Bruno Mars\nWritten by: Philip Lawrence, Ari Levine, Bruno Mars, Keinan Warsame, Peter Hernandez\nPublished by: Music Of Windswept, EMI Music Publishing, Bughouse Music, Sony ATV Music Publishing & Northside Independent Music Publishing\n\n"Comic Chimp Mask used by permission of Easter Unlimited,Inc./FunWorld Div. All Rights Reserved. Copyright 2009."'
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/tCUPRqfeg7WYXS9pz0YbAXOy4lA"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi40NzZCMERDMjVEN0RFRThB'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'thumbnails': {
+          u'default': {
+            u'url': u'https://i.ytimg.com/vi/6uvg-ug9CvE/default.jpg',
+            u'width': 120,
+            u'height': 90
+          },
+          u'high': {
+            u'url': u'https://i.ytimg.com/vi/6uvg-ug9CvE/hqdefault.jpg',
+            u'width': 480,
+            u'height': 360
+          },
+          u'medium': {
+            u'url': u'https://i.ytimg.com/vi/6uvg-ug9CvE/mqdefault.jpg',
+            u'width': 320,
+            u'height': 180
+          }
+        },
+        u'title': u'Dave Chappelle - White People',
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'6uvg-ug9CvE'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 10,
+        u'description': u'-'
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/69JV-Dh1ItYn9Liog3843Wix8bU"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi45ODRDNTg0QjA4NkFBNkQy'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'thumbnails': {
+          u'default': {
+            u'url': u'https://i.ytimg.com/vi/TG4f9zR5yzY/default.jpg',
+            u'width': 120,
+            u'height': 90
+          },
+          u'high': {
+            u'url': u'https://i.ytimg.com/vi/TG4f9zR5yzY/hqdefault.jpg',
+            u'width': 480,
+            u'height': 360
+          },
+          u'medium': {
+            u'url': u'https://i.ytimg.com/vi/TG4f9zR5yzY/mqdefault.jpg',
+            u'width': 320,
+            u'height': 180
+          }
+        },
+        u'title': u'Louis CK - Being White',
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'TG4f9zR5yzY'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 11,
+        u'description': u'From his latest stand-up "Chewed Up" - Louis CK tells people why it\'s great being a white male. It\'s advantages and it\'s futuristic disadvantages. \n\nChewed UP goes on sale on DVD and CD on December 16th.\n\nMore info about Louis CK here: http://www.louisck.net\n\n--------------- It pains me to even write this here  ---------------\n\nFor those of you asking if I have taken money from Louis CK\'s mouth because of the ads? I am not. I opted out of doing so when Youtube offered and asked if I was able to send the money to Louis CK himself. I was turned down. The ads you do see are automatic and are not my doing and is out of my hands. Sorry about that, unless someone can tell me how to disable them using magic.\n\nAlso, to anyone who wants to bring their long-winded political essays about being marginally offended or feeling the need to explain the history of the world to everyone here. Don\'t bother. I posted this with the intent of it just being a hilarious joke and wanting to share it with others. Nothing more.\n\nCut it out. And keep laughing assholes.\n\nJune, 3, 2013: Comments have been enabled again due to some flash bug breaking the comments for me. As [ANOTHER] warning. Leave out your political and race bullshit out of the comments section. Your inane blabbering will get blocked/deleted for repeated attempts. Have a good day you retards.'
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/5ix6W6ePxBPXAGO4hUpHNEdDhaM"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi4zMDg5MkQ5MEVDMEM1NTg2'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'thumbnails': {
+          u'default': {
+            u'url': u'https://i.ytimg.com/vi/eHRyl_eT5FU/default.jpg',
+            u'width': 120,
+            u'height': 90
+          },
+          u'high': {
+            u'url': u'https://i.ytimg.com/vi/eHRyl_eT5FU/hqdefault.jpg',
+            u'width': 480,
+            u'height': 360
+          },
+          u'medium': {
+            u'url': u'https://i.ytimg.com/vi/eHRyl_eT5FU/mqdefault.jpg',
+            u'width': 320,
+            u'height': 180
+          }
+        },
+        u'title': u"30 things White people do that Black people don't",
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'eHRyl_eT5FU'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 12,
+        u'description': u'Fuck who dont like this video. I get paid off every comment lol.  30 funny things white people do that black people dont. Ghetto names, top 60. Top 30 white stereotypes. Comment & Subscribe!'
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/iyu-7f-5Nc8LrM6nmuphpV_d5GY"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi41Mzk2QTAxMTkzNDk4MDhF'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'thumbnails': {
+          u'default': {
+            u'url': u'https://i.ytimg.com/vi/006NlPRjsxs/default.jpg',
+            u'width': 120,
+            u'height': 90
+          },
+          u'high': {
+            u'url': u'https://i.ytimg.com/vi/006NlPRjsxs/hqdefault.jpg',
+            u'width': 480,
+            u'height': 360
+          },
+          u'medium': {
+            u'url': u'https://i.ytimg.com/vi/006NlPRjsxs/mqdefault.jpg',
+            u'width': 320,
+            u'height': 180
+          }
+        },
+        u'title': u'Victorious   Things Jade hates #2',
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'006NlPRjsxs'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 13,
+        u'description': u''
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/KucrlpWABoCgufBn40hAGQSmdto"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi5EQUE1NTFDRjcwMDg0NEMz'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'thumbnails': {
+          u'default': {
+            u'url': u'https://i.ytimg.com/vi/ypT0Y-WgLuw/default.jpg',
+            u'width': 120,
+            u'height': 90
+          },
+          u'high': {
+            u'url': u'https://i.ytimg.com/vi/ypT0Y-WgLuw/hqdefault.jpg',
+            u'width': 480,
+            u'height': 360
+          },
+          u'medium': {
+            u'url': u'https://i.ytimg.com/vi/ypT0Y-WgLuw/mqdefault.jpg',
+            u'width': 320,
+            u'height': 180
+          }
+        },
+        u'title': u'Victorious Cast: "Why We\'re Thankful For Each Other!" (BOP & Tiger Beat)',
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'ypT0Y-WgLuw'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 14,
+        u'description': u"When BOP and Tiger Beat were invited to the set of Victorious, the cast spilled to us why they're thankful for each other! Also, check out our exclusive video to see Victoria Justice talking about her upcoming Macy's Thanksgiving Day Parade performance."
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/DqXviHrj0pHF3Iq_6EaberIshUw"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi41QTY1Q0UxMTVCODczNThE'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'thumbnails': {
+          u'default': {
+            u'url': u'https://i.ytimg.com/vi/JPLhWnScXkU/default.jpg',
+            u'width': 120,
+            u'height': 90
+          },
+          u'high': {
+            u'url': u'https://i.ytimg.com/vi/JPLhWnScXkU/hqdefault.jpg',
+            u'width': 480,
+            u'height': 360
+          },
+          u'medium': {
+            u'url': u'https://i.ytimg.com/vi/JPLhWnScXkU/mqdefault.jpg',
+            u'width': 320,
+            u'height': 180
+          }
+        },
+        u'title': u'Victorious - Pointless Video',
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'JPLhWnScXkU'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 15,
+        u'description': u"Between scenes - doin' nothin' ;)"
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/e42QNtFWR2CzSIKQMmTCgkQv77Q"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi4yMUQyQTQzMjRDNzMyQTMy'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'description': u'This video is unavailable.',
+        u'title': u'Deleted video',
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'geGpG_Yga5s'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 16
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/pTZMLiZLI85X-eevZDwe5E1je2c"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi45RTgxNDRBMzUwRjQ0MDhC'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'thumbnails': {
+          u'default': {
+            u'url': u'https://i.ytimg.com/vi/utMaMnVehXo/default.jpg',
+            u'width': 120,
+            u'height': 90
+          },
+          u'high': {
+            u'url': u'https://i.ytimg.com/vi/utMaMnVehXo/hqdefault.jpg',
+            u'width': 480,
+            u'height': 360
+          },
+          u'medium': {
+            u'url': u'https://i.ytimg.com/vi/utMaMnVehXo/mqdefault.jpg',
+            u'width': 320,
+            u'height': 180
+          }
+        },
+        u'title': u"Beck and Jade's Relationship Advice #1",
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'utMaMnVehXo'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 17,
+        u'description': u"When you think of a perfectly healthy relationship, you think of me and Beck. That's why we give you lesser couples relationship advice. You're welcome. - Jade"
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/A0xr6jI1ouk_2Jpp3faLr0NmsUk"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi5ENDU4Q0M4RDExNzM1Mjcy'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'description': u'This video is private.',
+        u'title': u'Private video',
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'ylXqc8TQ15w'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 18
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/D6tpmBcsuO1vuWbRSLtOXcyqudU"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi4yMDhBMkNBNjRDMjQxQTg1'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'thumbnails': {
+          u'default': {
+            u'url': u'https://i.ytimg.com/vi/RVcCDRzjtWg/default.jpg',
+            u'width': 120,
+            u'height': 90
+          },
+          u'high': {
+            u'url': u'https://i.ytimg.com/vi/RVcCDRzjtWg/hqdefault.jpg',
+            u'width': 480,
+            u'height': 360
+          },
+          u'medium': {
+            u'url': u'https://i.ytimg.com/vi/RVcCDRzjtWg/mqdefault.jpg',
+            u'width': 320,
+            u'height': 180
+          },
+          u'maxres': {
+            u'url': u'https://i.ytimg.com/vi/RVcCDRzjtWg/maxresdefault.jpg',
+            u'width': 1280,
+            u'height': 720
+          },
+          u'standard': {
+            u'url': u'https://i.ytimg.com/vi/RVcCDRzjtWg/sddefault.jpg',
+            u'width': 640,
+            u'height': 480
+          }
+        },
+        u'title': u"Yelawolf - Daddy's Lambo",
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'RVcCDRzjtWg'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 19,
+        u'description': u"Music video by Yelawolf performing Daddy's Lambo. (C) 2011 DGC Records"
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/SHeGdHxHmcLCc6fqC7pPCoXIqwk"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi5GM0Q3M0MzMzY5NTJFNTdE'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'thumbnails': {
+          u'default': {
+            u'url': u'https://i.ytimg.com/vi/a8w4N7-J2Xs/default.jpg',
+            u'width': 120,
+            u'height': 90
+          },
+          u'high': {
+            u'url': u'https://i.ytimg.com/vi/a8w4N7-J2Xs/hqdefault.jpg',
+            u'width': 480,
+            u'height': 360
+          },
+          u'medium': {
+            u'url': u'https://i.ytimg.com/vi/a8w4N7-J2Xs/mqdefault.jpg',
+            u'width': 320,
+            u'height': 180
+          },
+          u'maxres': {
+            u'url': u'https://i.ytimg.com/vi/a8w4N7-J2Xs/maxresdefault.jpg',
+            u'width': 1280,
+            u'height': 720
+          },
+          u'standard': {
+            u'url': u'https://i.ytimg.com/vi/a8w4N7-J2Xs/sddefault.jpg',
+            u'width': 640,
+            u'height': 480
+          }
+        },
+        u'title': u"Fabolous - Vevo GO Shows: Y'all Don\u2019t Hear Me Tho",
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'a8w4N7-J2Xs'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 20,
+        u'description': u'Fabolous hits the Brooklyn Bridge, an iconic setting in this VEVO GO Show performance of "Y\'all Don\u2019t Hear Me Tho."  See more VEVO GO Shows at VEVO.com.'
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/KOJq762CkCuubB9lvHy0VwIW5Xw"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi4zRjM0MkVCRTg0MkYyQTM0'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'thumbnails': {
+          u'default': {
+            u'url': u'https://i.ytimg.com/vi/4jh-xcKazSk/default.jpg',
+            u'width': 120,
+            u'height': 90
+          },
+          u'high': {
+            u'url': u'https://i.ytimg.com/vi/4jh-xcKazSk/hqdefault.jpg',
+            u'width': 480,
+            u'height': 360
+          },
+          u'medium': {
+            u'url': u'https://i.ytimg.com/vi/4jh-xcKazSk/mqdefault.jpg',
+            u'width': 320,
+            u'height': 180
+          },
+          u'maxres': {
+            u'url': u'https://i.ytimg.com/vi/4jh-xcKazSk/maxresdefault.jpg',
+            u'width': 1280,
+            u'height': 720
+          },
+          u'standard': {
+            u'url': u'https://i.ytimg.com/vi/4jh-xcKazSk/sddefault.jpg',
+            u'width': 640,
+            u'height': 480
+          }
+        },
+        u'title': u'Chase & Status - Hitz ft. Tinie Tempah',
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'4jh-xcKazSk'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 21,
+        u'description': u"Vote for Chase & Status to win Best British Group at the BRITS 2012: http://bit.ly/y8ZejK\n\nThe official video for the new single from Chase & Status - 'Hitz' feat. Tinie Tempah -- Out now.\n\n'Hitz' Feat. Tinie Tempah (Single Version) - http://bit.ly/r8o6cJ\n'Hitz' Feat. Tinie Tempah -- Remixes bundle - http://bit.ly/oJ6IXA\n\nExclusive iTunes digital bundle includes:\n'Hitz' Feat. Tinie Tempah (Wretch 32 Remix)\n'Hitz' Feat. Tinie Tempah (16Bit Remix)\n'Hitz' Feat. Tinie Tempah (Delta Heavy Remix)\n'Hitz' Feat. Tinie Tempah (Dillon Francis Remix)\n\nhttp://www.chaseandstatus.co.uk\nhttp://www.facebook.com/chaseandstatus\nhttp://www.twitter.com/chaseandstatus\nhttp://www.myspace.com/chaseandstatus"
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/PTtAj53tPBZpXOVyzGES92ideN0"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi45NzUwQkI1M0UxNThBMkU0'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'thumbnails': {
+          u'default': {
+            u'url': u'https://i.ytimg.com/vi/9G49Tdw4KDw/default.jpg',
+            u'width': 120,
+            u'height': 90
+          },
+          u'high': {
+            u'url': u'https://i.ytimg.com/vi/9G49Tdw4KDw/hqdefault.jpg',
+            u'width': 480,
+            u'height': 360
+          },
+          u'medium': {
+            u'url': u'https://i.ytimg.com/vi/9G49Tdw4KDw/mqdefault.jpg',
+            u'width': 320,
+            u'height': 180
+          },
+          u'maxres': {
+            u'url': u'https://i.ytimg.com/vi/9G49Tdw4KDw/maxresdefault.jpg',
+            u'width': 1280,
+            u'height': 720
+          },
+          u'standard': {
+            u'url': u'https://i.ytimg.com/vi/9G49Tdw4KDw/sddefault.jpg',
+            u'width': 640,
+            u'height': 480
+          }
+        },
+        u'title': u"Country Sh*t (Remix) (Director's Cut)",
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'9G49Tdw4KDw'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 22,
+        u'description': u"Music video by Big K.R.I.T. performing Country Sh*t (Remix) (Director's Cut). (C) 2011 The Island Def Jam Music Group"
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/7qeZaiGpGV_ukfdNdimlcpZQq2E"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi5DNzE1RjZEMUZCMjA0RDBB'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'description': u'This video is private.',
+        u'title': u'Private video',
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'75W-2zpmSOY'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 23
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/Zz31ga9i7-JiAz15cRHRyxua3nw"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi43MTI1NDIwOTMwQjIxMzNG'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'description': u'This video is private.',
+        u'title': u'Private video',
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'-vY8FwHECOA'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 24
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/K1SoGJlIH9kgdZi0jfcuD0GDqIQ"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi5DQ0MyQ0Y4Mzg0M0VGOEYw'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'description': u'This video is private.',
+        u'title': u'Private video',
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'FxJhMOrM2D0'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 25
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/G9TWcIeKrixwHb0F3inLlvE9MnU"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi4yQUE2Q0JEMTk4NTM3RTZC'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'thumbnails': {
+          u'default': {
+            u'url': u'https://i.ytimg.com/vi/BgdLdl60EMA/default.jpg',
+            u'width': 120,
+            u'height': 90
+          },
+          u'high': {
+            u'url': u'https://i.ytimg.com/vi/BgdLdl60EMA/hqdefault.jpg',
+            u'width': 480,
+            u'height': 360
+          },
+          u'medium': {
+            u'url': u'https://i.ytimg.com/vi/BgdLdl60EMA/mqdefault.jpg',
+            u'width': 320,
+            u'height': 180
+          },
+          u'maxres': {
+            u'url': u'https://i.ytimg.com/vi/BgdLdl60EMA/maxresdefault.jpg',
+            u'width': 1280,
+            u'height': 720
+          },
+          u'standard': {
+            u'url': u'https://i.ytimg.com/vi/BgdLdl60EMA/sddefault.jpg',
+            u'width': 640,
+            u'height': 480
+          }
+        },
+        u'title': u"Glee Cast - Baby, It's Cold Outside (Glee Cast Version)",
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'BgdLdl60EMA'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 26,
+        u'description': u"Music video by Glee Cast performing Baby, It's Cold Outside (Glee Cast Version). (x) 2010 Twentieth Century Fox Film Corporation"
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/xa5CqF9VXVotm28u_hrNvgFVWOQ"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi5DMkU4NTY1QUFGQTYwMDE3'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'description': u'This video is private.',
+        u'title': u'Private video',
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'5T4NBz7psMQ'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 27
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/MhOTGUhw9TF1Pv-xMMuqXsnh4Qg"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi44Mjc5REFBRUE2MTdFRDU0'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'description': u'This video is private.',
+        u'title': u'Private video',
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'm-Jtnrm7MxA'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 28
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/00m-lhemSm1nBSvvGIQoahc9aPU"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi43NDhFRTgwOTRERTU4Rjg3'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'description': u'This video is private.',
+        u'title': u'Private video',
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'Z-ttleDqdkQ'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 29
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/IRDiee6wjKvf-Rk0-IAQWJKJIxc"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi41QUZGQTY5OTE4QTREQUU4'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'description': u'This video is private.',
+        u'title': u'Private video',
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'_ghUHkt2Y-Y'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 30
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/4Nlo_gtdXNRXusr_VOng5qgAMoQ"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi4zRDBDOEZDOUM0MDY5NEEz'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'description': u'This video is private.',
+        u'title': u'Private video',
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'm5lvqXnVUAs'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 31
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/nQOcY7foJ1IgJAM48pq84A02tNo"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi5CMEQ2Mjk5NTc3NDZFRUNB'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'description': u'This video is private.',
+        u'title': u'Private video',
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'7SoB8d5Dnto'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 32
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/-f1Xur-rUmzMaVKLOl5atKkQLWM"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi42MTI4Njc2QjM1RjU1MjlG'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'description': u'This video is private.',
+        u'title': u'Private video',
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'ZxLgE2UEWPc'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 33
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/BT12eNhQf21mH3N3EmbQZS_KyN4"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi45RjNFMDhGQ0Q2RkFCQTc1'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'description': u'This video is private.',
+        u'title': u'Private video',
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'xDOID-rXIss'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 34
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/9geRp-rVy753GQaropB430PZQyo"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi40QTA3NTU2RkM1QzlCMzYx'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'description': u'This video is private.',
+        u'title': u'Private video',
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'hIYfo_1mrNc'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 35
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/s1ERIvb8ONt7Ig4BeKaodUBWPXI"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi5BRjJDODk5REM0NjkzMUIy'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'description': u'This video is private.',
+        u'title': u'Private video',
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'WzFEPxCseO0'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 36
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/upZSudD0aBgqD_Qci5-9l7W8ORs"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi4xOTEzQzhBQzU3MDNDNjcz'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'description': u'This video is private.',
+        u'title': u'Private video',
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'KErimAvzerA'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 37
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/v_QiCyyPT9GQLNrsbQld8HPo9SE"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi5GNDg1Njc1QzZERjlFRjE5'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'description': u'This video is private.',
+        u'title': u'Private video',
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'0DBEdshgTUY'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 38
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/hTjzdSbtvJsRbzGLLLJZqefD66Y"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi4zQzFBN0RGNzNFREFCMjBE'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'description': u'This video is private.',
+        u'title': u'Private video',
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'5e2yzcbD6zA'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 39
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/d1aLKh8lrKNsHJPe0Gy2v6ddzeg"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi45NkVENTkxRDdCQUFBMDY4'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'description': u'This video is private.',
+        u'title': u'Private video',
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'RgFRHWe_isA'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 40
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/ZsQhF-THmguUqdIxaYkS5w6p2-k"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi5DNkMwRUI2MkI4QkI4NDFG'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'description': u'This video is private.',
+        u'title': u'Private video',
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'1oOKraxA_Bg'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 41
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/Qmir5MGQyewuOJi9nSN9FsfrDq0"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi5DRUQwODMxQzUyRTlGRkY3'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'description': u'This video is private.',
+        u'title': u'Private video',
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'Jk2sDNj60-E'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 42
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/pfObVMVE14LPHzpro0zp7ylwZZM"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi41MzY4MzcwOUFFRUU3QzEx'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'description': u'This video is private.',
+        u'title': u'Private video',
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'VDugMCbvA2k'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 43
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/Qsam0QWaGoclFyL_1YDS5QRUbA8"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi4yQjZFRkExQjFGODk3RUFD'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'description': u'This video is unavailable.',
+        u'title': u'Deleted video',
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'tggtPHDmrR8'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 44
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/_fw-6qFRtj11rDqlT-Pa0QH8s6Q"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi4yQUJFNUVCMzVDNjcxRTlF'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'description': u'This video is unavailable.',
+        u'title': u'Deleted video',
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'EAGMdgsvLkU'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 45
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/WNSAa-yMHlWEQdcHJ2MpptAyIzY"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi40QzRDOEU0QUYwNUIxN0M1'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'description': u'This video is private.',
+        u'title': u'Private video',
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'Z1Al6xnxm68'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 46
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/_HI2VY-CalgeRErLqZMafEZ7s1w"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi41RTNBREYwMkI5QzU3RkY2'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'thumbnails': {
+          u'default': {
+            u'url': u'https://i.ytimg.com/vi/szfwfffnZE8/default.jpg',
+            u'width': 120,
+            u'height': 90
+          },
+          u'high': {
+            u'url': u'https://i.ytimg.com/vi/szfwfffnZE8/hqdefault.jpg',
+            u'width': 480,
+            u'height': 360
+          },
+          u'medium': {
+            u'url': u'https://i.ytimg.com/vi/szfwfffnZE8/mqdefault.jpg',
+            u'width': 320,
+            u'height': 180
+          }
+        },
+        u'title': u'Tobymac - J Train [Math Remix]',
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'szfwfffnZE8'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 47,
+        u'description': u"This is from Re:Mix Momentum. It has Kirk Franklin and Paul Meany (of Earthsuit and Mute Math fame) on it. Also for those of yall who don't know Math and Mute Math are the same band."
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/hPaNEiyXebiNoKiJQwC5f3B-VFU"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi5ENjI1QUI0MDI5NEQzODFE'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'thumbnails': {
+          u'default': {
+            u'url': u'https://i.ytimg.com/vi/nu6gfUtO1bk/default.jpg',
+            u'width': 120,
+            u'height': 90
+          },
+          u'high': {
+            u'url': u'https://i.ytimg.com/vi/nu6gfUtO1bk/hqdefault.jpg',
+            u'width': 480,
+            u'height': 360
+          },
+          u'medium': {
+            u'url': u'https://i.ytimg.com/vi/nu6gfUtO1bk/mqdefault.jpg',
+            u'width': 320,
+            u'height': 180
+          }
+        },
+        u'title': u'Atmosphere [Remix]-Toby Mac',
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'nu6gfUtO1bk'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 48,
+        u'description': u'album pic, not my music'
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/_BHDt0qA0CuNayCNA7nHRG15QGA"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi44QzVGQUU2QjE2NDgxM0M4'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'thumbnails': {
+          u'default': {
+            u'url': u'https://i.ytimg.com/vi/xubJcIj2Lb0/default.jpg',
+            u'width': 120,
+            u'height': 90
+          },
+          u'high': {
+            u'url': u'https://i.ytimg.com/vi/xubJcIj2Lb0/hqdefault.jpg',
+            u'width': 480,
+            u'height': 360
+          },
+          u'medium': {
+            u'url': u'https://i.ytimg.com/vi/xubJcIj2Lb0/mqdefault.jpg',
+            u'width': 320,
+            u'height': 180
+          }
+        },
+        u'title': u'Toby Mac- Gone',
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'xubJcIj2Lb0'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 49,
+        u'description': u"Lyrics:\r\nI told the girl that you should treat her like a lady and\r\nShe told me all the things you did and it was shady, man\r\nShe said that what you say and what you do are different things\r\nWhile you were telling me that you were checking out them blingy rings\r\n\r\nShe said she's had enough\r\nWell, it sounds to me like you're straight out of luck\r\nAnd she said she's all through\r\nAnd life's not blowin' her kisses\r\n\r\nI wanna know, wanna know what you were thinkin'\r\nI can't imagine why it didn't even sink in\r\nThey say you never know what you got till it's gone\r\n(Never know what you got till it's gone)\r\nI wanna know, wanna know what you were thinkin'\r\nI can't imagine why it didn't even sink in\r\nThey say you never know what you got till it's gone\r\n(Never know what you got till it's gone)\r\n\r\nShe said she's had enough\r\nSo, it sounds to me like your still out of love\r\nAnd she said you weren't true\r\nAnd life's not blowin' her kisses\r\n\r\nShe said it's gonna be alright\r\nCause God made a way through the pain and he opened her eyes\r\nAnd she said you came crawling back\r\nBut after what you did to her she wouldn't have any of that"
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/uun-4akiAVyswpKYh7n92ZAPQpA"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi4xMzgwMzBERjQ4NjEzNUE5'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'thumbnails': {
+          u'default': {
+            u'url': u'https://i.ytimg.com/vi/dPA3bpDrEVc/default.jpg',
+            u'width': 120,
+            u'height': 90
+          },
+          u'high': {
+            u'url': u'https://i.ytimg.com/vi/dPA3bpDrEVc/hqdefault.jpg',
+            u'width': 480,
+            u'height': 360
+          },
+          u'medium': {
+            u'url': u'https://i.ytimg.com/vi/dPA3bpDrEVc/mqdefault.jpg',
+            u'width': 320,
+            u'height': 180
+          }
+        },
+        u'title': u'Toby Mac- The Slam',
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'dPA3bpDrEVc'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 50,
+        u'description': u"Lyrics:\r\nGod's in the spot you can like it or not\r\nSo rip the knob off the volume when you give this a shot\r\nAnd raise your hands as the slam starts to thicken the plot\r\nOpenin' eyes to the lies of the enemies' lot\r\nSo run like the wind from the sin of your past\r\nKeep your eyes on the prize when they put you on blast\r\nIt's the Christ on the cross, it's humanity's shot\r\nIt's a worldwide call to everything that we're not\r\n\r\nThis is the slam, this is the one\r\nThis is the slam, this is the one\r\n\r\nThis is the slam, this is the one\r\nWe gonna do it like it ain't been done before\r\nThis is the slam, this is the one\r\nWe gonna bring it like it ain't been brung\r\nThis is the slam, this is the one\r\nWe gonna do it like it ain't been done before\r\nThis is the slam this is the one\r\nWe gonna spring you like you ain't been sprung\r\n\r\nThey came from the cities and towns all around\r\nTo see the longhaired preacher from the desert get down\r\nWaist high in water, never short on words, he said\r\nRepent, the kingdom of heaven can be yours\r\nBut he stopped in the middle of his words and dropped\r\nDown to his knees and said, behold the Lamb of God\r\nHe's the one, the slam, don't you people understand?\r\nYou're staring at the son, God's reaching out his hand\r\n\r\nThe father slammed it like Shaq\r\nFor Latinos and Blacks\r\nPackin' them straps\r\nAnd Caucasians hooked on Ecstasy and the crack\r\nStacked the sins of this world to his body\r\nAnd conquered evil and hell\r\nThen snatched the keys of death in one breath and unlocked the cell\r\nHe rose on the third\r\nI'm tellin' you partner, its actual fact\r\nJust like TOBYMAC and Boney Soprano up on this track\r\nWe slam dunkin' and keep it jumpin' like jumper cables\r\nAnd keep the crowd rowdy like Jesus tossin' them temple tables"
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/2LRbtkH2CcUzjGL8Fclnt6qYrvE"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi4zMEQ1MEIyRTFGNzhDQzFB'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'thumbnails': {
+          u'default': {
+            u'url': u'https://i.ytimg.com/vi/P2RnkPkfN7Y/default.jpg',
+            u'width': 120,
+            u'height': 90
+          },
+          u'high': {
+            u'url': u'https://i.ytimg.com/vi/P2RnkPkfN7Y/hqdefault.jpg',
+            u'width': 480,
+            u'height': 360
+          },
+          u'medium': {
+            u'url': u'https://i.ytimg.com/vi/P2RnkPkfN7Y/mqdefault.jpg',
+            u'width': 320,
+            u'height': 180
+          }
+        },
+        u'title': u'diverse city - toby mac',
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'P2RnkPkfN7Y'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 51,
+        u'description': u"Welcome to Diverse city. i made this video because there wasn't a videoclip and a lyrics version of it and my thought was that you guys would apreciate it if there was one. Some of the lyrics aren't right, my apologies. Enjoy!\nPlease Like and/or Subscribe when you like this.\n\n*EDIT i can't believe that this video has already reached 500k views. thanks alot everyone. Please make a moment to listen to some of the newer covers on my profile. God Bless"
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/uVmto6wEBLR1dfW1Fwrd3nX6r1c"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi41NTZEOThBNThFOUVGQkVB'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'thumbnails': {
+          u'default': {
+            u'url': u'https://i.ytimg.com/vi/qMaPJWU83_I/default.jpg',
+            u'width': 120,
+            u'height': 90
+          },
+          u'high': {
+            u'url': u'https://i.ytimg.com/vi/qMaPJWU83_I/hqdefault.jpg',
+            u'width': 480,
+            u'height': 360
+          },
+          u'medium': {
+            u'url': u'https://i.ytimg.com/vi/qMaPJWU83_I/mqdefault.jpg',
+            u'width': 320,
+            u'height': 180
+          }
+        },
+        u'title': u'Re: My Drunk Kitchen',
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'qMaPJWU83_I'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 52,
+        u'description': u'What do you do when all your classes are cancelled on a fresh, spring day?\n\nA good day, inspired by MyHarto. \nhttp://www.youtube.com/watch?v=vq7G-Q9ZwC0'
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/Oeztd5eoHKoUm8veWSdy2GH_9Qo"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi43NERCMDIzQzFBMERCMEE3'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'thumbnails': {
+          u'default': {
+            u'url': u'https://i.ytimg.com/vi/zd5GGvWWnzU/default.jpg',
+            u'width': 120,
+            u'height': 90
+          },
+          u'high': {
+            u'url': u'https://i.ytimg.com/vi/zd5GGvWWnzU/hqdefault.jpg',
+            u'width': 480,
+            u'height': 360
+          },
+          u'medium': {
+            u'url': u'https://i.ytimg.com/vi/zd5GGvWWnzU/mqdefault.jpg',
+            u'width': 320,
+            u'height': 180
+          },
+          u'maxres': {
+            u'url': u'https://i.ytimg.com/vi/zd5GGvWWnzU/maxresdefault.jpg',
+            u'width': 1280,
+            u'height': 720
+          },
+          u'standard': {
+            u'url': u'https://i.ytimg.com/vi/zd5GGvWWnzU/sddefault.jpg',
+            u'width': 640,
+            u'height': 480
+          }
+        },
+        u'title': u'\ubcf4\uc774\ud504\ub80c\ub4dc(BOYFRIEND) -  Boyfriend Music Video',
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'zd5GGvWWnzU'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 53,
+        u'description': u'BOYFRIEND \'Boyfriend\' M/V \r\n\r\n\r\nBOYFRIEND MEMBERS \r\n\ubbfc\uc6b0(MINWOO) , \uc601\ubbfc(YOUNGMIN) , \uad11\ubbfc(KWANGMIN)  \r\n\ub3d9\ud604(DONGHYUN) , \ud604\uc131(HYUNSEONG), \uc815\ubbfc(JEONGMIN)\r\n\r\n\r\nM.V CASTING : \ubcf4\ub77c(SISTAR BORA) \r\n\r\n\r\n- Official Facebook Open \r\nhttp://www.facebook.com/officialBF\r\n\r\n- Official Twitter  \r\nhttp://twitter.com/#!/G_BoyFriend\r\n\r\n- Download on iTunes \r\n http://itunes.apple.com/us/album/id440457809?i=440457819\r\n\r\n\r\nBOYFRIEND 1st Single "BoyFriend "\r\nTrack List\r\n1 Let`s Get It Started \r\n2 Boyfriend \r\n3 You & I \r\n4 Boyfriend (Inst.)\r\n5 You & I (Inst.)'
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/3bJzSCQsF_xkLZj1kz8ajnia9BY"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi5GNjAwN0Y0QTFGOTVDMEMy'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'description': u'This video is private.',
+        u'title': u'Private video',
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'zYHluioF-5w'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 54
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/ALvWIdNFiOLmpcBH77_mWHpDvR0"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi5CQkEwRDA0MDkwNUM2MDY1'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'description': u'This video is private.',
+        u'title': u'Private video',
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'-UED2AZGtvU'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 55
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/t0RwfCI1dcUGD3S8R8JVQkK_YjA"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi4wNEU1MTI4NkZEMzVBN0JF'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'description': u'This video is private.',
+        u'title': u'Private video',
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'CwG2skRr5m8'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 56
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/Ln2kViBo_pVPJYBCkknxpz04I4g"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi4wMTYxQzVBRDI1NEVDQUZE'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'thumbnails': {
+          u'default': {
+            u'url': u'https://i.ytimg.com/vi/0OpjWLPDNRw/default.jpg',
+            u'width': 120,
+            u'height': 90
+          },
+          u'high': {
+            u'url': u'https://i.ytimg.com/vi/0OpjWLPDNRw/hqdefault.jpg',
+            u'width': 480,
+            u'height': 360
+          },
+          u'medium': {
+            u'url': u'https://i.ytimg.com/vi/0OpjWLPDNRw/mqdefault.jpg',
+            u'width': 320,
+            u'height': 180
+          },
+          u'maxres': {
+            u'url': u'https://i.ytimg.com/vi/0OpjWLPDNRw/maxresdefault.jpg',
+            u'width': 1280,
+            u'height': 720
+          },
+          u'standard': {
+            u'url': u'https://i.ytimg.com/vi/0OpjWLPDNRw/sddefault.jpg',
+            u'width': 640,
+            u'height': 480
+          }
+        },
+        u'title': u'Waka Flocka "Bustin At Em" (Official Video)',
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'0OpjWLPDNRw'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 57,
+        u'description': u'Buy Waka Flocka Flame\'s new album Triple F Life here: http://smarturl.it/TripleFLifeYT\nAlbum In Stores now!!\n\n\xa9 2010 WMG \n\nDownload the new Gucci Mane & Waka Flocka Flame Street Album, "Ferrari Boyz" on iTunes - http://bit.ly/FerrariboyziTunes\n\nCheck out the video for Waka Flocka Flame\'s EXPLOSIVE intro track for his brand new album "Flockaveli" - IN STORES NOW!'
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/9MKYM3iWuHPi-gRlV3R3_iuFfk8"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi4zMUEyMkQwOTk0NTg4MDgw'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'thumbnails': {
+          u'default': {
+            u'url': u'https://i.ytimg.com/vi/WkkC9cK8Hz0/default.jpg',
+            u'width': 120,
+            u'height': 90
+          },
+          u'high': {
+            u'url': u'https://i.ytimg.com/vi/WkkC9cK8Hz0/hqdefault.jpg',
+            u'width': 480,
+            u'height': 360
+          },
+          u'medium': {
+            u'url': u'https://i.ytimg.com/vi/WkkC9cK8Hz0/mqdefault.jpg',
+            u'width': 320,
+            u'height': 180
+          }
+        },
+        u'title': u'Waka Flocka "Hard in Da Paint" (Official Video)',
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'WkkC9cK8Hz0'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 58,
+        u'description': u'Buy Waka Flocka Flame\'s new album Triple F Life here: http://smarturl.it/TripleFLifeYT\nAlbum In Stores NOW!!!\n\n\xa9 2010 WMG\n\nDownload the new Gucci Mane & Waka Flocka Flame Street Album, "Ferrari Boyz" on iTunes - http://bit.ly/FerrariboyziTunes\n\nDownload Flockaveli on iTunes - http://bit.ly/FlockaveliiTunes\nCheck out Waka Flocka Flame\'s official music video for his hot new single, "Hard in Da Paint".  Video directed by Benny Boom.'
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/XBp2fHumovCXy__nASjPrcDnScI"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi42QzdBMzlBQzQzRjQ0QkQy'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'thumbnails': {
+          u'default': {
+            u'url': u'https://i.ytimg.com/vi/zQ-hPNrKdZI/default.jpg',
+            u'width': 120,
+            u'height': 90
+          },
+          u'high': {
+            u'url': u'https://i.ytimg.com/vi/zQ-hPNrKdZI/hqdefault.jpg',
+            u'width': 480,
+            u'height': 360
+          },
+          u'medium': {
+            u'url': u'https://i.ytimg.com/vi/zQ-hPNrKdZI/mqdefault.jpg',
+            u'width': 320,
+            u'height': 180
+          },
+          u'maxres': {
+            u'url': u'https://i.ytimg.com/vi/zQ-hPNrKdZI/maxresdefault.jpg',
+            u'width': 1280,
+            u'height': 720
+          },
+          u'standard': {
+            u'url': u'https://i.ytimg.com/vi/zQ-hPNrKdZI/sddefault.jpg',
+            u'width': 640,
+            u'height': 480
+          }
+        },
+        u'title': u'Baracka Flacka Flames - Head of The State',
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'zQ-hPNrKdZI'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 59,
+        u'description': u'Wacka Flacka "Hard in the Paint" Parody! Directed, produced and edited by MARTIN USHER and JAMES DAVIS.   Director of Photography: Mark Nichols\r\n\r\nLIVE THAT LIFE PRODUCTIONS livethatlifefilms@yahoo.com \r\nFollow @theejamesdavis and @martinusher'
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/MFD6fnLPN6qh9pE64_axh4M3gvU"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi41OURENDc2NEM1MDI5Mjky'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'thumbnails': {
+          u'default': {
+            u'url': u'https://i.ytimg.com/vi/Es-CNSQQ0IE/default.jpg',
+            u'width': 120,
+            u'height': 90
+          },
+          u'high': {
+            u'url': u'https://i.ytimg.com/vi/Es-CNSQQ0IE/hqdefault.jpg',
+            u'width': 480,
+            u'height': 360
+          },
+          u'medium': {
+            u'url': u'https://i.ytimg.com/vi/Es-CNSQQ0IE/mqdefault.jpg',
+            u'width': 320,
+            u'height': 180
+          }
+        },
+        u'title': u'Travis Porter Ft. Waka Flocka Flame - HELL YOU TALMBOUT',
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'Es-CNSQQ0IE'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 60,
+        u'description': u'Travis Porter Hell You Talmbout ft. Waka Flocka Flame and Frenchi So Icey Boys - DOwnload the Travis Porter x Waka Flocka Flame mixtape here http://www.mediafire.com/download.php?gzidyrynmmj'
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/tJE0EmOLOTzV2CRndidyuDaTnaU"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi4wRjhFM0MxMTU1MEUzQ0VB'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'thumbnails': {
+          u'default': {
+            u'url': u'https://i.ytimg.com/vi/fyTwdmeM94g/default.jpg',
+            u'width': 120,
+            u'height': 90
+          },
+          u'high': {
+            u'url': u'https://i.ytimg.com/vi/fyTwdmeM94g/hqdefault.jpg',
+            u'width': 480,
+            u'height': 360
+          },
+          u'medium': {
+            u'url': u'https://i.ytimg.com/vi/fyTwdmeM94g/mqdefault.jpg',
+            u'width': 320,
+            u'height': 180
+          },
+          u'maxres': {
+            u'url': u'https://i.ytimg.com/vi/fyTwdmeM94g/maxresdefault.jpg',
+            u'width': 1280,
+            u'height': 720
+          },
+          u'standard': {
+            u'url': u'https://i.ytimg.com/vi/fyTwdmeM94g/sddefault.jpg',
+            u'width': 640,
+            u'height': 480
+          }
+        },
+        u'title': u'Travis Porter - Chevrolet Music Video',
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'fyTwdmeM94g'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 61,
+        u'description': u'Music Video for CHevrolet by us... travis porter'
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/gsxpiChbPTNkN3i6dOAgK5isvM0"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi5CNTZFOTNGQzZEODg1RUQx'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'thumbnails': {
+          u'default': {
+            u'url': u'https://i.ytimg.com/vi/xbTWpiv43Os/default.jpg',
+            u'width': 120,
+            u'height': 90
+          },
+          u'high': {
+            u'url': u'https://i.ytimg.com/vi/xbTWpiv43Os/hqdefault.jpg',
+            u'width': 480,
+            u'height': 360
+          },
+          u'medium': {
+            u'url': u'https://i.ytimg.com/vi/xbTWpiv43Os/mqdefault.jpg',
+            u'width': 320,
+            u'height': 180
+          },
+          u'maxres': {
+            u'url': u'https://i.ytimg.com/vi/xbTWpiv43Os/maxresdefault.jpg',
+            u'width': 1280,
+            u'height': 720
+          },
+          u'standard': {
+            u'url': u'https://i.ytimg.com/vi/xbTWpiv43Os/sddefault.jpg',
+            u'width': 640,
+            u'height': 480
+          }
+        },
+        u'title': u'Let Me Take You Out - Bryan J ft. Travis Porter',
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'xbTWpiv43Os'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 62,
+        u'description': u'Get this song on itunes here: http://itunes.apple.com/us/album/let-me-take-you-out-feat-travis/id394911924\r\n\r\nViral video for the first single from Trick Stewart\'s Redzone Records artist Bryan J. The song featuring Travis Porter can be found on thier mixtape "Proud To Be A Problem"'
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/Gw64j5-QUfD9TRHcfVb1mf0J-Xo"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi5CNTcxMDQ0NThBNzMxODYz'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'thumbnails': {
+          u'default': {
+            u'url': u'https://i.ytimg.com/vi/I71XjZp_htc/default.jpg',
+            u'width': 120,
+            u'height': 90
+          },
+          u'high': {
+            u'url': u'https://i.ytimg.com/vi/I71XjZp_htc/hqdefault.jpg',
+            u'width': 480,
+            u'height': 360
+          },
+          u'medium': {
+            u'url': u'https://i.ytimg.com/vi/I71XjZp_htc/mqdefault.jpg',
+            u'width': 320,
+            u'height': 180
+          }
+        },
+        u'title': u'Lola Monroe (Feat. Trina) - Overtime',
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'I71XjZp_htc'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 63,
+        u'description': u'Lola Monroe (Feat. Trina) - Overtime'
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/5Hyj5K1exO_maAp4hs_Lf3lp2wM"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi5ERkUyQTM0MzEwQjZCMTY5'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'thumbnails': {
+          u'default': {
+            u'url': u'https://i.ytimg.com/vi/gg5hYYrNfCE/default.jpg',
+            u'width': 120,
+            u'height': 90
+          },
+          u'high': {
+            u'url': u'https://i.ytimg.com/vi/gg5hYYrNfCE/hqdefault.jpg',
+            u'width': 480,
+            u'height': 360
+          },
+          u'medium': {
+            u'url': u'https://i.ytimg.com/vi/gg5hYYrNfCE/mqdefault.jpg',
+            u'width': 320,
+            u'height': 180
+          },
+          u'maxres': {
+            u'url': u'https://i.ytimg.com/vi/gg5hYYrNfCE/maxresdefault.jpg',
+            u'width': 1280,
+            u'height': 720
+          },
+          u'standard': {
+            u'url': u'https://i.ytimg.com/vi/gg5hYYrNfCE/sddefault.jpg',
+            u'width': 640,
+            u'height': 480
+          }
+        },
+        u'title': u'LIL KING  "Wiggy Wiggy" w/ LYRICS',
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'gg5hYYrNfCE'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 64,
+        u'description': u'Lil KING Wiggy Wiggy  7yr. old Rapper/Actor!!! (Son of SILKK THE SHOCKER, nephew of MASTER P, cousin of LIL ROMEO & CYMPHONIQUE) the youngest in the MILLER Dynasty! Check him out @ king-miller.com, instagram/twitter @officiallilking'
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/EUhFQUfVFWZ3296KRu1gEFDtN-E"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi4xM0YyM0RDNDE4REQ1NDA0'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'thumbnails': {
+          u'default': {
+            u'url': u'https://i.ytimg.com/vi/0zCBJ6bFiZU/default.jpg',
+            u'width': 120,
+            u'height': 90
+          },
+          u'high': {
+            u'url': u'https://i.ytimg.com/vi/0zCBJ6bFiZU/hqdefault.jpg',
+            u'width': 480,
+            u'height': 360
+          },
+          u'medium': {
+            u'url': u'https://i.ytimg.com/vi/0zCBJ6bFiZU/mqdefault.jpg',
+            u'width': 320,
+            u'height': 180
+          }
+        },
+        u'title': u'CYMPHONIQUE Featuring ROMEO Tell The DJ" Remix',
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'0zCBJ6bFiZU'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 65,
+        u'description': u'http://www.CYMPHONIQUE.COM \r\nhttp://www.ClubCYMPHONIQUE.COM\r\nhttp://www.Myspace.com/CYMPHONIQUE\r\nhttp://www.twitter.com/CYMPHONIQUE\r\nhttp://www.facebook.com/CYMPHONIQUE\r\nCYMPHONIQUE Tell The DJ" Remix Featuring ROMEO\r\nCymphonique, 13 yr old Hollywood Dream Music Recording Artist\r\n\r\nhttp://www.twitter.com/CYMPHONIQUE\r\nhttp://www.facebook.com/CYMPHONIQUE'
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/1gKk_EoFA9A0_OMPZkK5CAcQF6A"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi42MjYzMTMyQjA0QURCN0JF'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'thumbnails': {
+          u'default': {
+            u'url': u'https://i.ytimg.com/vi/k49-JD9q7UA/default.jpg',
+            u'width': 120,
+            u'height': 90
+          },
+          u'high': {
+            u'url': u'https://i.ytimg.com/vi/k49-JD9q7UA/hqdefault.jpg',
+            u'width': 480,
+            u'height': 360
+          },
+          u'medium': {
+            u'url': u'https://i.ytimg.com/vi/k49-JD9q7UA/mqdefault.jpg',
+            u'width': 320,
+            u'height': 180
+          }
+        },
+        u'title': u'Cymphonique "Daddy I\'m A Rockstar" Official YouTube Music Video',
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'k49-JD9q7UA'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 66,
+        u'description': u'14 yr. old teen sensation Cymphonique has created a new sound, "HIP ROCK POP", music for Urban and Crossover Radio, Hip Hop with a Rock n Roll Pop swaggar.\r\nCymphonique Loves To Make YouTube Videos for her FANS... Let us know in the comments which schools, city & state that you want her tour to come to!!!\r\nWRITING CREDIT: Cymphonique, Percy Miller, Chris Rojas, Garrick Smith & Ryan Marrone\r\n\r\nPRODUCTION CREDITS: Chris Rojas (RMI) and Ryan & Smitty\r\nLIVE DRUMS by Ricky Ficarelli\r\nMIXED by Bob HornProduced by Chris Rojas, Written by \r\n\r\nhttp://www.Cymphonique.com \r\nhttp://www.ClubCymphonique.com\r\nhttp://www.Twitter.com/Cymphonique\r\nhttp://www.MySpace.com/Cymphonique'
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/nAXjRfb1UCfa4Eo9oTrxAqNonlc"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi40MDNEMzA0QTBFRThFMzBE'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'thumbnails': {
+          u'default': {
+            u'url': u'https://i.ytimg.com/vi/nHdnbb7MkYs/default.jpg',
+            u'width': 120,
+            u'height': 90
+          },
+          u'high': {
+            u'url': u'https://i.ytimg.com/vi/nHdnbb7MkYs/hqdefault.jpg',
+            u'width': 480,
+            u'height': 360
+          },
+          u'medium': {
+            u'url': u'https://i.ytimg.com/vi/nHdnbb7MkYs/mqdefault.jpg',
+            u'width': 320,
+            u'height': 180
+          }
+        },
+        u'title': u'CYMPHONIQUE "SOLDIER GIRL" PROMO Video',
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'nHdnbb7MkYs'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 67,
+        u'description': u'At 14 yrs of age, CYMPHONIQUE aka "Lil Miss Swaggar" with her new song "SOLDIER GIRL" leads a movement empowering young people of today especially females to be motivated, encouraged, determined, strong minded and not letting the haters stop them from achieving success.\n\nJoin the Soldier Girl Movement, Go to http://ClubCymphonique.com\n\n"SOLDIER GIRL" Production Credits:\nProduced by Kadis & Sean\nWritten by Cymphonique, P. Miller & Royal Flush\nChoreography by Annalisia Simone\nFilmed by Deuce Deuce Studios'
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/H60WdaPktmeiJqR7rN0-W_ubXBY"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi42RTNCOEMxREI3Q0VDMjU2'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'thumbnails': {
+          u'default': {
+            u'url': u'https://i.ytimg.com/vi/shp9i4ONhM4/default.jpg',
+            u'width': 120,
+            u'height': 90
+          },
+          u'high': {
+            u'url': u'https://i.ytimg.com/vi/shp9i4ONhM4/hqdefault.jpg',
+            u'width': 480,
+            u'height': 360
+          },
+          u'medium': {
+            u'url': u'https://i.ytimg.com/vi/shp9i4ONhM4/mqdefault.jpg',
+            u'width': 320,
+            u'height': 180
+          }
+        },
+        u'title': u'CYMPHONIQUE at Age 13 & FABULOUS GIRLS "BUTTERFLIES" OFFICIAL YouTube Video',
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'shp9i4ONhM4'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 68,
+        u'description': u'http://www.FabulousGirlsGroup.com\r\nhttp://www.myspace.com/FabulousGirlsGroup\r\nhttp://twitter.com/FabulousGirls\r\n\r\nhttp://www.CYMPHONIQUE.COM \r\nhttp://www.ClubCYMPHONIQUE.COM\r\nhttp://www.Myspace.com/CYMPHONIQUE\r\nhttp://www.twitter.com/CYMPHONIQUE\r\nhttp://www.facebook.com/CYMPHONIQUE\r\n\r\n"Butterflies" by Fabulous Girls OFFICIAL Music Video w/LYRICS!!\r\nAll copyrights owned by Hollywood Dream Music 2009. Any duplication of this video is UNAUTHORIZED!'
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/POrCO-Xo2Y9E3VGbql5wJlfRuvM"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi43QzNCNkZENzIyMDY2MjZB'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'thumbnails': {
+          u'default': {
+            u'url': u'https://i.ytimg.com/vi/Hf3aGuug1SU/default.jpg',
+            u'width': 120,
+            u'height': 90
+          },
+          u'high': {
+            u'url': u'https://i.ytimg.com/vi/Hf3aGuug1SU/hqdefault.jpg',
+            u'width': 480,
+            u'height': 360
+          },
+          u'medium': {
+            u'url': u'https://i.ytimg.com/vi/Hf3aGuug1SU/mqdefault.jpg',
+            u'width': 320,
+            u'height': 180
+          }
+        },
+        u'title': u'CYMPHONIQUE "All That" Nominated for BET Award Best Hip Hop Female Artist 2011',
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'Hf3aGuug1SU'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 69,
+        u'description': u'Cymphonique YouTube Video "All That" Featuring Romeo and Lil P-Nut "ALL THAT" \r\nMusic Produced by: Kadis & Sean\r\nWritten by: Royal Flush, Cymphonique & P.Miller\r\n\r\nhttp://www.ClubCymphonique.com \r\n\r\nAlso you can find out more about Cymphonique @ the following sites:\r\n\r\nhttp://www.Cymphonique.com \r\n\r\nhttp://www.MySpace.com/cymphonique \r\n\r\nFollow Cymphonique on twitter @: http://twitter.com/Cymphonique\r\n\r\nFollow Cymphonique on FaceBook @: http://www.facebook.com/Cymphonique'
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/u-ncOnqZ2NOQrCINU-zOiOzE2m0"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi5EQkE3RTJCQTJEQkFBQTcz'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'thumbnails': {
+          u'default': {
+            u'url': u'https://i.ytimg.com/vi/0NnXIxSAa1Q/default.jpg',
+            u'width': 120,
+            u'height': 90
+          },
+          u'high': {
+            u'url': u'https://i.ytimg.com/vi/0NnXIxSAa1Q/hqdefault.jpg',
+            u'width': 480,
+            u'height': 360
+          },
+          u'medium': {
+            u'url': u'https://i.ytimg.com/vi/0NnXIxSAa1Q/mqdefault.jpg',
+            u'width': 320,
+            u'height': 180
+          }
+        },
+        u'title': u'Earth, Wind & Fire - Reasons',
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'0NnXIxSAa1Q'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 70,
+        u'description': u"Legendary EWF performing Reasons at a concert in 1982 (I think) featuring Don Myrick on sax. Check out Philip Bailey's high note at 2:18!\r\n\r\n\r\nUploaded this just for my cousin, Ellie."
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/30rXIeSzhDzGlsOFcky84WWI6z8"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi4yQzk4QTA5QjkzMTFFOEI1'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'thumbnails': {
+          u'default': {
+            u'url': u'https://i.ytimg.com/vi/CdcY8rAqCow/default.jpg',
+            u'width': 120,
+            u'height': 90
+          },
+          u'high': {
+            u'url': u'https://i.ytimg.com/vi/CdcY8rAqCow/hqdefault.jpg',
+            u'width': 480,
+            u'height': 360
+          },
+          u'medium': {
+            u'url': u'https://i.ytimg.com/vi/CdcY8rAqCow/mqdefault.jpg',
+            u'width': 320,
+            u'height': 180
+          }
+        },
+        u'title': u"The 80's Supergroup do 'Greased Lightnin' - Let's Dance for Comic Relief 2011 Show 3 - BBC One",
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'CdcY8rAqCow'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 71,
+        u'description': u"http://www.bbc.co.uk/rednoseday\r\n80's hit makers Toyah Wilcox, Clare Grogan, Limahl and Chesney Hawkes take on the mighty Greased Lightnin'."
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/Ze6bBFrJXxHE-DS-YvFiFpzsmMM"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi45NDlDQUFFOThDMTAxQjUw'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'thumbnails': {
+          u'default': {
+            u'url': u'https://i.ytimg.com/vi/KvtKTOHP_38/default.jpg',
+            u'width': 120,
+            u'height': 90
+          },
+          u'high': {
+            u'url': u'https://i.ytimg.com/vi/KvtKTOHP_38/hqdefault.jpg',
+            u'width': 480,
+            u'height': 360
+          },
+          u'medium': {
+            u'url': u'https://i.ytimg.com/vi/KvtKTOHP_38/mqdefault.jpg',
+            u'width': 320,
+            u'height': 180
+          }
+        },
+        u'title': u'How\xa0To\xa0Play\xa0Hey\xa0Soul\xa0Sister\xa0By\xa0Train\xa0On\xa0Guitar',
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'KvtKTOHP_38'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 72,
+        u'description': u"Learn guitar chords for FREE through our new game Chord Master: http://bit.ly/ChordMasterYT\nhttp://www.mahalo.com/how-to-play-hey-soul-sister-by-train-on-guitar\nLike us on\xa0Facebook\xa0at\xa0http://www.facebook.com/MahaloGuitar\n\nUnderstanding how to play Hey Soul Sister by Train on guitar may not be as complicated as you think. This page gives you tips and advice on what chords to use that will help you learn to play this hit song correctly. If you're familiar with the song and understand the beats and rhythms, you've likely already done half the work.\n\nLearn more at these related Mahalo pages:\n\nHow to Play Party in The Usa by Miley Cyrus on Guitar: http://www.mahalo.com/how-to-play-party-in-the-usa-by-miley-cyrus-on-guitar\nHow to Play 21 Guns by Green Day on On Guitar: http://www.mahalo.com/how-to-play-21-guns-by-green-day-on-on-guitar\nHow to Play Tik Tok by Kesha on Guitar: http://www.mahalo.com/how-to-play-tik-tok-by-kesha-on-guitar\nHow to Play Baby by Justin Beiber on Guitar: http://www.mahalo.com/how-to-play-baby-by-justin-beiber-on-guitar\nHow to Play Billionaire by Travis Mccoy on Guitar: http://www.mahalo.com/how-to-play-billionaire-by-travis-mccoy-on-guitar\nHow to Play I'M Yours by Jason Mraz on Guitar: http://www.mahalo.com/how-to-play-im-yours-by-jason-mraz-on-guitar\nHow to Play You Belong to Me by Taylor Swift on Guitar: http://www.mahalo.com/how-to-play-you-belong-to-me-by-taylor-swift-on-guitar\nHow to Play Hey Soul Sister by Train on Guitar: http://www.mahalo.com/how-to-play-hey-soul-sister-by-train-on-guitar\nHow to Play Paperback Writer by The Beatles on Guitar: http://www.mahalo.com/how-to-play-paperback-writer-by-the-beatles-on-guitar\nHow to Play All The Right Moves by One Republic on Guitar: http://www.mahalo.com/how-to-play-all-the-right-moves-by-one-republic-on-guitar\n\nLearn everything with these playlists:\nHow To Play Guitar Songs : http://www.youtube.com/view_play_list?p=BE077DEF7EB33D00\nHow To Play Piano Songs: http://www.youtube.com/view_play_list?p=64CB0D9415B2B27A\nHow To Play Bass Guitar: http://www.youtube.com/view_play_list?p=348187E8A0DF674B\nHow To Play Drums: http://www.youtube.com/view_play_list?p=C3C5CD2C1ACDE343\nHow To Speak Japanese: http://www.youtube.com/view_play_list?p=7B20082F3A7DA3E6\nHow To Read Body Language: http://www.youtube.com/view_play_list?p=B136F7631ED490DF\nHow To Make Coffee Drinks: http://www.youtube.com/view_play_list?p=25A4C963FB4D1658\nHow To Play FarmVille: http://www.youtube.com/view_play_list?p=783B260723506DEA\nHow To Maintain and Optimize Your Computer: http://www.youtube.com/view_play_list?p=696E9716D9E51EE0\nHow To Use iPhone 4: http://www.youtube.com/view_play_list?p=32C24F50A404FFC6"
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/FXuSMWO4xlaWrGtPYPvxJsOyQ5M"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi4xN0Y2QjVBOEI2MzQ5OUM5'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'thumbnails': {
+          u'default': {
+            u'url': u'https://i.ytimg.com/vi/sJXZLnMPiQ4/default.jpg',
+            u'width': 120,
+            u'height': 90
+          },
+          u'high': {
+            u'url': u'https://i.ytimg.com/vi/sJXZLnMPiQ4/hqdefault.jpg',
+            u'width': 480,
+            u'height': 360
+          },
+          u'medium': {
+            u'url': u'https://i.ytimg.com/vi/sJXZLnMPiQ4/mqdefault.jpg',
+            u'width': 320,
+            u'height': 180
+          }
+        },
+        u'title': u'Arrogant Worms - Me Like Hockey!',
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'sJXZLnMPiQ4'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 73,
+        u'description': u"Here's a little something that I put together from various pictures I could find."
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/MkOoJH_h5eqglCpy_1LmoxbdA8E"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi5FQUY2Qzk4RUFDN0ZFRkZF'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'thumbnails': {
+          u'default': {
+            u'url': u'https://i.ytimg.com/vi/8FbV4zT_ZTY/default.jpg',
+            u'width': 120,
+            u'height': 90
+          },
+          u'high': {
+            u'url': u'https://i.ytimg.com/vi/8FbV4zT_ZTY/hqdefault.jpg',
+            u'width': 480,
+            u'height': 360
+          },
+          u'medium': {
+            u'url': u'https://i.ytimg.com/vi/8FbV4zT_ZTY/mqdefault.jpg',
+            u'width': 320,
+            u'height': 180
+          }
+        },
+        u'title': u'Pirates of the Saskatchewan',
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'8FbV4zT_ZTY'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 74,
+        u'description': u'My music video based on The Last Saskatchewan Pirate by The Arrogant Worms as performed by Captain Tractor'
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/D8YqJ0tPpamoDk_MCWMRxFUR28E"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi5CMEVBRUJERkUyNTBENTkz'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'thumbnails': {
+          u'default': {
+            u'url': u'https://i.ytimg.com/vi/sWX8uWf2LhQ/default.jpg',
+            u'width': 120,
+            u'height': 90
+          },
+          u'high': {
+            u'url': u'https://i.ytimg.com/vi/sWX8uWf2LhQ/hqdefault.jpg',
+            u'width': 480,
+            u'height': 360
+          },
+          u'medium': {
+            u'url': u'https://i.ytimg.com/vi/sWX8uWf2LhQ/mqdefault.jpg',
+            u'width': 320,
+            u'height': 180
+          }
+        },
+        u'title': u'We Are The Beaver~The Arrogant Worms',
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'sWX8uWf2LhQ'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 75,
+        u'description': u"Well, this song was done by the Arrogant Worms! I just photoshopped and arranged pics, but enjoy anyways!\r\n\r\nHere be the lyrics!\r\n\r\nThe US is the eagle, Russia is the bear,\r\nAustralia is the kangaroo, cause they're kind of weird down there.\r\nYeah, India is the tiger, that stands so proud and tall,\r\nBut Canada is the greatest of them all.\r\n\r\nWe are the beaver, we're furry and we're free\r\nYeah, we are the beaver, we got two big front teeth\r\nYeah, we are the beaver, we can chew right through small trees\r\nWe are the beaver, we are the beaver, we are the beaver.\r\n\r\nYou might think a rodent is a pretty lame choice\r\nFor a national animal, but don't you listen to that voice.\r\nNo, cause all them birds and preditors, just take from the land\r\nBut the beaver, always gives a dam.\r\n\r\nWe are the beaver, we got cute little webbed feet\r\nYeah, we are the beaver, it's bark we like to eat\r\nYeah, we are the beaver, a nickel we complete.\r\nYeah, we are the beaver, we are the beaver, we are the beaver.\r\n\r\nThe eagle flies the sky above and swoops down on its prey\r\nThe big bear will maul anyone who dares gets in its way\r\nThe tiger is the greatest of the hunters today.\r\nBut the beaver it can build dams. Yeah,\r\nThe beaver it can build dams, dams, dams.\r\n\r\nWe are the beaver, we slap our tails when danger's nearby\r\nWe are the beaver, we got waterproof hides\r\nYeah, we are the beaver, we got big bums and beady eyes.\r\nWe are the beaver, we are the beaver, we are the beaver.\r\n\r\nWe are the beaver, our name is often used as a double entedre\r\nWe are the beaver, cause in Canada, both French and English belong\r\nYeah, we are the beaver, and the subject of this song is\r\nWe are the beaver, we are the beaver, we are the beaver.\r\nI can't hear you.\r\nWe are the beaver, we are the beaver, we are the beaver\r\nAre you getting the point?\r\nWe are the beaver, we are the beaver.\r\nWe are the beaver"
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/aVGY5NmZhk1LCGMJMGO89oiULB4"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi4xNjIyNEE0MDEyRDlCMjBE'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'thumbnails': {
+          u'default': {
+            u'url': u'https://i.ytimg.com/vi/KZHgHN87GRg/default.jpg',
+            u'width': 120,
+            u'height': 90
+          },
+          u'high': {
+            u'url': u'https://i.ytimg.com/vi/KZHgHN87GRg/hqdefault.jpg',
+            u'width': 480,
+            u'height': 360
+          },
+          u'medium': {
+            u'url': u'https://i.ytimg.com/vi/KZHgHN87GRg/mqdefault.jpg',
+            u'width': 320,
+            u'height': 180
+          }
+        },
+        u'title': u'The Coffee Song~The Arrogant Worms',
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'KZHgHN87GRg'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 76,
+        u'description': u"This is The Coffee Song by The Arrogant Worms.\r\n\r\nThe song was not done by me! I arranged and photoshopped pictures, that's all!\r\n\r\nEnjoy!"
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/vrujF0OdUxP7A0EFD_GWwVdwCSI"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi44QTY2MEEzNzBFQUJCMUQ2'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'thumbnails': {
+          u'default': {
+            u'url': u'https://i.ytimg.com/vi/29g57XTYgLE/default.jpg',
+            u'width': 120,
+            u'height': 90
+          },
+          u'high': {
+            u'url': u'https://i.ytimg.com/vi/29g57XTYgLE/hqdefault.jpg',
+            u'width': 480,
+            u'height': 360
+          },
+          u'medium': {
+            u'url': u'https://i.ytimg.com/vi/29g57XTYgLE/mqdefault.jpg',
+            u'width': 320,
+            u'height': 180
+          }
+        },
+        u'title': u'I am not American',
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'29g57XTYgLE'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 77,
+        u'description': u'For Canada Day, a music video for a patriotic song by The Arrogant Worms'
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/YcgzhfqsWtLECJAyOESVKrgF8D8"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi4zQTkzRjgxRTY0OEU0MkM3'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'thumbnails': {
+          u'default': {
+            u'url': u'https://i.ytimg.com/vi/RLMkV7VyPns/default.jpg',
+            u'width': 120,
+            u'height': 90
+          },
+          u'high': {
+            u'url': u'https://i.ytimg.com/vi/RLMkV7VyPns/hqdefault.jpg',
+            u'width': 480,
+            u'height': 360
+          },
+          u'medium': {
+            u'url': u'https://i.ytimg.com/vi/RLMkV7VyPns/mqdefault.jpg',
+            u'width': 320,
+            u'height': 180
+          }
+        },
+        u'title': u'Ontario sucks by the Arrogant Worms',
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'RLMkV7VyPns'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 78,
+        u'description': u"if you hate the song don't comment you Retards"
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/pMW-IAm4hndAcUaO6IenGK7jrtI"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi4xNTZBNUQxMDZBQzFGMjkw'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'thumbnails': {
+          u'default': {
+            u'url': u'https://i.ytimg.com/vi/Ety2FEHQgwM/default.jpg',
+            u'width': 120,
+            u'height': 90
+          },
+          u'high': {
+            u'url': u'https://i.ytimg.com/vi/Ety2FEHQgwM/hqdefault.jpg',
+            u'width': 480,
+            u'height': 360
+          },
+          u'medium': {
+            u'url': u'https://i.ytimg.com/vi/Ety2FEHQgwM/mqdefault.jpg',
+            u'width': 320,
+            u'height': 180
+          }
+        },
+        u'title': u'The war of 1812 Song (Original)',
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'Ety2FEHQgwM'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 79,
+        u'description': u'By the Arrogant Worms'
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/L0Q6LtkOxndms6XIOGIjElhPbWE"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi4wMDFGNzBEOTU4Q0Y1Q0RG'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'thumbnails': {
+          u'default': {
+            u'url': u'https://i.ytimg.com/vi/eqPy7wBjLUs/default.jpg',
+            u'width': 120,
+            u'height': 90
+          },
+          u'high': {
+            u'url': u'https://i.ytimg.com/vi/eqPy7wBjLUs/hqdefault.jpg',
+            u'width': 480,
+            u'height': 360
+          },
+          u'medium': {
+            u'url': u'https://i.ytimg.com/vi/eqPy7wBjLUs/mqdefault.jpg',
+            u'width': 320,
+            u'height': 180
+          }
+        },
+        u'title': u'Rent - Frenchie Davis - Seasons of Love - Regis & Kelly',
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'eqPy7wBjLUs'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 80,
+        u'description': u''
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/Ozszzs-lmDb_1cJkyBrZRTQiTUM"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi44QTA1QTQyRTc3M0VGQzYx'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'thumbnails': {
+          u'default': {
+            u'url': u'https://i.ytimg.com/vi/rwgl4D4s-e4/default.jpg',
+            u'width': 120,
+            u'height': 90
+          },
+          u'high': {
+            u'url': u'https://i.ytimg.com/vi/rwgl4D4s-e4/hqdefault.jpg',
+            u'width': 480,
+            u'height': 360
+          },
+          u'medium': {
+            u'url': u'https://i.ytimg.com/vi/rwgl4D4s-e4/mqdefault.jpg',
+            u'width': 320,
+            u'height': 180
+          }
+        },
+        u'title': u'South African Music (Dikgomo remix)',
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'rwgl4D4s-e4'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 81,
+        u'description': u'Beautiful AFRICA. FROM CAPE TO CAIRO. GOD BLESS YOU AFRICA. WE LOVE YOU. For more information, please contact  Nozinja at zinjamusic@yahoo.com.'
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/HAd7gThqBHEmZy8GxcM3HfuaN8s"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi44MkM2RjVEQkQ5N0I2MjVE'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'thumbnails': {
+          u'default': {
+            u'url': u'https://i.ytimg.com/vi/S69uz0cJjyE/default.jpg',
+            u'width': 120,
+            u'height': 90
+          },
+          u'high': {
+            u'url': u'https://i.ytimg.com/vi/S69uz0cJjyE/hqdefault.jpg',
+            u'width': 480,
+            u'height': 360
+          },
+          u'medium': {
+            u'url': u'https://i.ytimg.com/vi/S69uz0cJjyE/mqdefault.jpg',
+            u'width': 320,
+            u'height': 180
+          }
+        },
+        u'title': u'Best African music',
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'S69uz0cJjyE'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 82,
+        u'description': u'blood diamond soundtrack (solomon vandy)'
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/BlJkfZ2ZHvhkUQTV0swfBIEz4aw"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi40NzE2MTY1QTM3RUI3QkU3'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'thumbnails': {
+          u'default': {
+            u'url': u'https://i.ytimg.com/vi/kRh4tvwgwXg/default.jpg',
+            u'width': 120,
+            u'height': 90
+          },
+          u'high': {
+            u'url': u'https://i.ytimg.com/vi/kRh4tvwgwXg/hqdefault.jpg',
+            u'width': 480,
+            u'height': 360
+          },
+          u'medium': {
+            u'url': u'https://i.ytimg.com/vi/kRh4tvwgwXg/mqdefault.jpg',
+            u'width': 320,
+            u'height': 180
+          }
+        },
+        u'title': u'How to strum without a guitar pick',
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'kRh4tvwgwXg'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 83,
+        u'description': u'http://learnguitarfasttips.com  A short video showing how to strum without a guitar pick.'
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/p5YASjpOHFncoEQUmK4rr85MEs4"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi5EMzJDRTUwQjBEOUVFQzAw'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'thumbnails': {
+          u'default': {
+            u'url': u'https://i.ytimg.com/vi/BC8PLOvo8rk/default.jpg',
+            u'width': 120,
+            u'height': 90
+          },
+          u'high': {
+            u'url': u'https://i.ytimg.com/vi/BC8PLOvo8rk/hqdefault.jpg',
+            u'width': 480,
+            u'height': 360
+          },
+          u'medium': {
+            u'url': u'https://i.ytimg.com/vi/BC8PLOvo8rk/mqdefault.jpg',
+            u'width': 320,
+            u'height': 180
+          }
+        },
+        u'title': u'Guitar Tips Finger Strumming',
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'BC8PLOvo8rk'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 84,
+        u'description': u'Learn Finger Strumming http://www.TotallyGuitars.com has free acoustic guitar tips, acoustic lessons as well as an active supportive community.  Membership is free to access the free content.  Join us!'
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/Det57IbvwG1tYeOL9sphcYZUFE8"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi5CMUM0NzY5NzdEQzlGRjAx'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'thumbnails': {
+          u'default': {
+            u'url': u'https://i.ytimg.com/vi/CvvFiZyEyTA/default.jpg',
+            u'width': 120,
+            u'height': 90
+          },
+          u'high': {
+            u'url': u'https://i.ytimg.com/vi/CvvFiZyEyTA/hqdefault.jpg',
+            u'width': 480,
+            u'height': 360
+          },
+          u'medium': {
+            u'url': u'https://i.ytimg.com/vi/CvvFiZyEyTA/mqdefault.jpg',
+            u'width': 320,
+            u'height': 180
+          }
+        },
+        u'title': u'July 18: Accio Deathly Hallows (no spoilers)',
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'CvvFiZyEyTA'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 85,
+        u'description': u"Buy this song on iTunes:\nhttp://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?i=303875716&id=303875663&s=143441\n\nSong lyrics:\n\nI'm gettin kinda tired of this\nprepublication media blitz\nthey've got all of muggle kind under their spell\n\ndon't they know the whole world's already gone\nand reserved a copy from amazon\nhow many more books could you sell?\nJust give me that book or go to hell.\n\n{chorus}\nCause I need ... Harry Potter\nLike a grindylow needs water\nas Saturday approaches my need grows\n\nAccio Deathly Hallows\nIncendio Book Sales Embargoes\nIt'll feel like phoenix tears on a broken nose\nAccio deathly hallows \nAccio deathly hallows\n\nI'm getting kinda petrified\nWhat would Ron do if Hermione died\nOr if Voldemort killed Hedwig just for yucks\n\nI have no confidence\nin theories about the half blood prince\nAnd what if Harry's brain is a horcrux\nHoly crap that would frikkin suck.\n\n{chorus}\n\n{bridge}\nWhatever's up the sleve of JK Rowling\nI bet it has to do with snape unbreakably vowing\nto protect that pureblood pus face Malfoy                      \nBut in the end I don't think it's gonna matter\nif Snape's good, or if he's bad\nbecause the weight of the world rests on our boy.\nYeah the weight of the world rests on our boy\n\n{chorus}\n\nBut mostly I'm just feelin' sad\nI know this could end real bad but\nI wish it didn't have to end at all\nYeah I wish it didn't have to end at all\n\nCause I couldn't care more about Harry Potter\nIf Hogwarts was my Alma Mater....\n\nIt's fantastically easy to play...Chord Progression:\n\nVerse: CFCFCFC - CFFGCFC - CF\n\nChorus: C-CFCFG - CFCFCFG - CFC - CFF\n\nBridge: FGCFFGC - FGCFFGC - FF\n\n\nHERE ARE A LOT OF LINKS TO NERDFIGHTASTIC THINGS:\n\nShirts and Stuff: http://dftba.com/artist/30/Vlogbrothers\nHank's Music: http://dftba.com/artist/15/Hank-Green\nJohn's Books: http://amzn.to/j3LYqo\n\n======================\n\nHank's Twitter: http://www.twitter.com/hankgreen\nHank's Facebook: http://www.facebook.com/hankimon\nHank's tumblr: http://edwardspoonhands.tumblr.com\n\nJohn's Twitter: http://www.twitter.com/realjohngreen\nJohn's Facebook: http://www.facebook.com/johngreenfans\nJohn's tumblr: http://fishingboatproceeds.tumblr.com\n\n======================\n\nOther Channels\nCrash Course: http://www.youtube.com/crashcourse\nSciShow: http://www.youtube.com/scishow\nGaming: http://www.youtube.com/hankgames\nVidCon: http://www.youtube.com/vidcon\nHank's Channel: http://www.youtube.com/hankschannel\nTruth or Fail: http://www.youtube.com/truthorfail\n\n======================\n\nNerdfighteria\nhttp://effyeahnerdfighters.com/\nhttp://effyeahnerdfighters.com/nftumblrs\nhttp://reddit.com/r/nerdfighters\nhttp://nerdfighteria.info/\n\nA Bunny\n(\\(\\\n( - -)\n((') (')"
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/sEa3EV1WtqJZLFV7ZYWBSMj7vrE"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi5DQjg2RDQyMEVGQkZFOEVF'
+    },
+    {
+      u'snippet': {
+        u'playlistId': u'PLpQkXmSxI4N9pvT537s9IuHwLkZn9z6hB',
+        u'thumbnails': {
+          u'default': {
+            u'url': u'https://i.ytimg.com/vi/ZBhZ8gCgfg0/default.jpg',
+            u'width': 120,
+            u'height': 90
+          },
+          u'high': {
+            u'url': u'https://i.ytimg.com/vi/ZBhZ8gCgfg0/hqdefault.jpg',
+            u'width': 480,
+            u'height': 360
+          },
+          u'medium': {
+            u'url': u'https://i.ytimg.com/vi/ZBhZ8gCgfg0/mqdefault.jpg',
+            u'width': 320,
+            u'height': 180
+          }
+        },
+        u'title': u'Richard Cheese - Milkshake (Kelis)',
+        u'resourceId': {
+          u'kind': u'youtube#video',
+          u'videoId': u'ZBhZ8gCgfg0'
+        },
+        u'channelId': u'UCa1f7ZZXF78S_15c_rxEu1A',
+        u'publishedAt': u'2013-09-17T19:54:16.000Z',
+        u'channelTitle': u'wolfkidex',
+        u'position': 86,
+        u'description': u'Richard Cheese - Milkshake'
+      },
+      u'kind': u'youtube#playlistItem',
+      u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/GC2ArRoO8X7SrZzfvS7msmoATHA"',
+      u'id': u'UExwUWtYbVN4STROOXB2VDUzN3M5SXVId0xrWm45ejZoQi4yM0EyQ0U1M0I2RkIwNTQ0'
+    }
+  ],
+  u'kind': u'youtube#playlistItemListResponse',
+  u'etag': u'"mie-I9wWQF7ndS7wC10DLBkzLlg/2fAUOTIskO-4fKG_jBT6ZtOXk5U"',
+  u'pageInfo': {
+    u'resultsPerPage': 50,
+    u'totalResults': 87
+  }
+}
